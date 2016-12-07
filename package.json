@@ -1,0 +1,30 @@
+{
+  "name": "api-rest-node-pm2",
+  "version": "1.0.0",
+  "description": "Api REST in node js and pm2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarosalasmtz/apiRestNodeJsAndPm2.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node",
+    "nodejs",
+    "mongodb",
+    "pm2"
+  ],
+  "author": "alvarosalasmtz@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alvarosalasmtz/apiRestNodeJsAndPm2/issues"
+  },
+  "homepage": "https://github.com/alvarosalasmtz/apiRestNodeJsAndPm2#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
